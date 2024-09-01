@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: book-catalog
-        image: sachinynr001/book_catalog:latest
+        image: yash0603/book_catalog:latest
         ports:
         - containerPort: 8000
         env:
